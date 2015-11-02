@@ -1,8 +1,19 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/ClickHandler.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MenuUI.cs">
     <Files>
-      <File FileName="Assets/scripts/ClickHandler.cs" Line="4" Column="1" />
+      <File FileName="Assets/Scripts/state/FiniteStateMachine.cs" Line="23" Column="3" />
+      <File FileName="Assets/scripts/ClickHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/state/IState.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/state/FSState.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/state/FSEvent.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/state/EventSystem.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MainGame.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AudioMenuUI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MainMenuUI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/QuitGameUI.cs" Line="7" Column="3" />
+      <File FileName="Assets/Scripts/TestUIState.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MenuUI.cs" Line="4" Column="20" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
