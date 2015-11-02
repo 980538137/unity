@@ -51,12 +51,12 @@
      <Compile Include="Assets\Scripts\MainMenuUI.cs" />
      <Compile Include="Assets\Scripts\MenuUI.cs" />
      <Compile Include="Assets\Scripts\QuitGameUI.cs" />
+     <Compile Include="Assets\Scripts\State\EventSystem.cs" />
+     <Compile Include="Assets\Scripts\State\FSEvent.cs" />
+     <Compile Include="Assets\Scripts\State\FSState.cs" />
+     <Compile Include="Assets\Scripts\State\FiniteStateMachine.cs" />
+     <Compile Include="Assets\Scripts\State\IState.cs" />
      <Compile Include="Assets\Scripts\TestUIState.cs" />
-     <Compile Include="Assets\Scripts\state\EventSystem.cs" />
-     <Compile Include="Assets\Scripts\state\FSEvent.cs" />
-     <Compile Include="Assets\Scripts\state\FSState.cs" />
-     <Compile Include="Assets\Scripts\state\FiniteStateMachine.cs" />
-     <Compile Include="Assets\Scripts\state\IState.cs" />
      <None Include="Assets\resources\Default\defaultBMFont.fnt" />
  <Reference Include="UnityEngine.Networking">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
