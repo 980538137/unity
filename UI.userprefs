@@ -1,46 +1,13 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CScoket/Network/ApplicationQueue.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TestUIState.cs">
     <Files>
-      <File FileName="Assets/Scripts/AudioMenuUI.cs" Line="25" Column="14" />
-      <File FileName="Assets/Scripts/CScoket/UtilNet.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Client/ClientMsgLog1.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Client/ClientMsgLog2.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Client/ClientMsgOGReqDoubleGame.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Client/ClientMsgOGReqDoubleGetGold.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Client/ClientMsgOGReqExitType.cs" Line="8" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Client/ClientMsgTop.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Network/NetProtocol.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Network/NetSendBufferQueue.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Player/player.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Player/PlayerAckRoom.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Player/PlayerInfoManager.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Player/PlayerOGAckGameResult.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Player/PlayerOGAckJpRecord.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Player/PlayerRank.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Server/CmdServer.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Server/MsgServerOGAckDoubleGetGold.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Server/MsgServerOGAckDoubleResult.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Server/MsgServerOGAckExit.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Server/MsgServerOGAckGameResult.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Server/MsgServerOGAckJP.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Server/MsgServerOGAckJpRecord.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Network/CmdBase.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Network/ApplicationQueue.cs" Line="9" Column="2" />
-      <File FileName="Assets/Scripts/CScoket/Network/CmdClientBase.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Network/CMsgBase.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Network/CMsgType.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Network/FrameworkConstant.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/Network/ModelToControlQueue.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CmdDefine.cs" Line="35" Column="3" />
-      <File FileName="Assets/Scripts/CScoket/OGTexasSlotsProtocol.cs" Line="14" Column="1" />
-      <File FileName="../hitmillions/Assets/Scripts/Messenger.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/CmdClientManager.cs" Line="9" Column="18" />
-      <File FileName="Assets/Scripts/CScoket/ByteBuffer.cs" Line="28" Column="15" />
-      <File FileName="Assets/Scripts/CScoket/jeson.cs" Line="16" Column="2" />
-      <File FileName="Assets/Scripts/CScoket/NetMsgManger.cs" Line="19" Column="15" />
-      <File FileName="Assets/Scripts/CScoket/NetworkAccessFacade.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CScoket/CmdRegisterFactoryFacade.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/State/IState.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/CScoket/Network/NetTcpSocketClientBase.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CScoket/Network/NetTcpClient.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CScoket/Network/NetSocket.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/State/FSEvent.cs" Line="24" Column="3" />
+      <File FileName="Assets/Scripts/TestUIState.cs" Line="30" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
